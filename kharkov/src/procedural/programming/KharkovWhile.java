@@ -17,8 +17,8 @@ public class KharkovWhile {
 	}
 
 	private static void metoda2() {
-		int[] a = { 2, 3, 6, 8, 9 };
-		int[] b = { 1, 4, 5, 7 };
+		int[] a = { 2, 3, 6, 8, 9, 11, 14, 15 };
+		int[] b = { 1, 4, 5, 7, 10, 12, 13 };
 		System.out.println(Arrays.toString(merge(a, b)));
 	}
 
